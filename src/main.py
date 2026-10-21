@@ -1,2 +1,1 @@
-print("Hello world")
-print("Тестовая ветка")
+print("Hello, world!")
