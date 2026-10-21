@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43f16bf2-8453-4263-a157-e3d17f656ea6" name="Changes" comment="First" />
+    <list default="true" id="43f16bf2-8453-4263-a157-e3d17f656ea6" name="Changes" comment="First">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="vet" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,7 +52,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "test-branch",
     "last_opened_file_path": "C:/Users/pozdn/PycharmProjects/PythonProject/docs/Diagrams",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
@@ -67,10 +70,10 @@
       <recent name="C:\Users\pozdn\PycharmProjects\PythonProject\docs\Diagrams" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pozdn\PycharmProjects\PythonProject\src" />
       <recent name="C:\Users\pozdn\PycharmProjects\PythonProject\docs\Diagrams" />
       <recent name="C:\Users\pozdn\PycharmProjects\PythonProject" />
       <recent name="C:\Users\pozdn\PycharmProjects\PythonProject\docs" />
-      <recent name="C:\Users\pozdn\PycharmProjects\PythonProject\src" />
     </key>
   </component>
   <component name="RunManager">
@@ -240,7 +243,7 @@
       <workItem from="1791467598130" duration="7351000" />
       <workItem from="1791535460412" duration="1200000" />
       <workItem from="1792600656174" duration="64000" />
-      <workItem from="1792608709704" duration="326000" />
+      <workItem from="1792608709704" duration="1009000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <option name="closed" value="true" />
@@ -274,7 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792609015408</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="First">
+      <option name="closed" value="true" />
+      <created>1792609056138</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1792609056138</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
